@@ -5,9 +5,12 @@
 #### Video 1.  
 install python
  
-setup pip by typing "py -m pip install -U pip"
+setup pip by typing  
+####Inline code
+'py -m pip install -U pip'
    
-add scikit package by writing "py -m pip install -U scikit-learn"
+add scikit package by writing 
+####Inline code'py -m pip install -U scikit-learn'
   
 after this done you can code your first project to tell the gender with just few details like height, weight and shoe size
           
