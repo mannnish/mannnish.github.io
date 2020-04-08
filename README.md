@@ -1,13 +1,12 @@
-# mannnish.github.io
 
-# Learn Python for Data science
+#### Learn Python for Data science
 
 `Video` : <https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU>
-Video 1.  
-install python
-setup pip by typing "py -m pip install -U pip"
-add scikit package by writing "py -m pip install -U scikit-learn"
-after this done you can code your first project to tell the gender with just few details like height, weight and shoe size
+# Video 1.  
+> install python
+> setup pip by typing "py -m pip install -U pip"
+> add scikit package by writing "py -m pip install -U scikit-learn"
+> after this done you can code your first project to tell the gender with just few details like height, weight and shoe size
           
           from sklearn import tree
 
